@@ -78,3 +78,7 @@
 			</exclusions>
 		</dependency>
 5.执行apollo/scripts/build.bat
+6.在下面三个位置找到编译好的jar包
+    apollo-adminservice/target
+    apollo-configservice/target
+    apollo-portal/target
